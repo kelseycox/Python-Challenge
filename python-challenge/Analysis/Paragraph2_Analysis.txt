@@ -1,0 +1,6 @@
+Pararaph Analysis
+-----------------
+Approximate Word Count: 276
+Approximate Sentence Count: 2
+Averange Letter Count: 5.5
+Averange Sentence Length: 138.0
